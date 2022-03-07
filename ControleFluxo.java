@@ -26,7 +26,8 @@ public class ControleFluxo
         {
             System.out.println(valor2+" é maior");
         }
-            
+        
+        leitura.close();
 
     }
 
